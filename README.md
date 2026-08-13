@@ -1,70 +1,87 @@
-# Hi, I'm Sahan Sudeepa 👋
+# Hi 👋, I'm Sahan Sudeepa
 
-### Software Engineering Student | Full-Stack Developer
-
-I'm a Software Engineering student passionate about building modern, scalable, and user-friendly web applications.
-
-I enjoy working across the full stack, learning new technologies, and turning ideas into practical software solutions.
+### 💻 Software Engineering Student | 🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Software Engineering Student
-* 💻 Interested in Full-Stack Web Development
-* 🌱 Currently improving my skills in modern web technologies
-* 🔧 Enjoy building real-world software projects
-* 🎯 Focused on writing clean, maintainable code
-* 📚 Always learning and exploring new technologies
+🎓 Software Engineering student passionate about building modern and practical software solutions.
+
+💻 Interested in Full-Stack Development, Artificial Intelligence, and Machine Learning.
+
+🌱 Continuously learning new technologies and improving my problem-solving and development skills.
+
+⚡ I enjoy turning ideas into real-world applications with clean, scalable, and user-friendly solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 Currently Exploring
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 AI-powered Applications
+* 🌐 Modern Full-Stack Development
+* 🚀 Scalable Web Applications
+* 📊 Data-driven Applications
+* ☁️ Cloud & Backend Technologies
+
+---
+
+## 🧠 AI / ML
+
+* Python
+* Machine Learning
+* AI-powered Applications
+* Computer Vision
+* OpenAI / LLM Concepts
+
+---
+
+## 💻 Full Stack Development
 
 ### Frontend
 
-* React
-* TypeScript
-* JavaScript
+* ⚛️ React.js
+* 📘 TypeScript
+* 🟨 JavaScript
+* 🎨 Tailwind CSS
+* ▲ Next.js
 * HTML5
 * CSS3
-* Tailwind CSS
-* Next.js
-  
+
 ### Backend
 
-* Node.js
-* Express.js
-* REST APIs
+* 🟢 Node.js
+* 🚂 Express.js
+* ☕ Java
+* 🌐 REST APIs
 
 ### Database
 
-* MongoDB
-* Supabase
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Figma
+* 🍃 MongoDB
+* ⚡ Supabase
+* SQL
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tools & Technologies
 
-### 🐦 Bird Smash Game
+* 🐙 Git & GitHub
+* 💻 VS Code
+* 📮 Postman
+* 🎨 Figma
+* 🐳 Docker
+* ☁️ AWS
 
-A browser-based interactive game where players use hand movements detected through a webcam to interact with objects on the screen.
+---
 
-**Tech:** React, TypeScript
+## 🎯 What I Enjoy Building
 
-### 🤖 AI Resume Analyzer
-
-An AI-powered application designed to analyze resumes and provide useful insights for improving CV quality and matching skills with job requirements.
-
-**Tech:** React, TypeScript
+* 🌐 Full-Stack Web Applications
+* 🤖 AI-powered Applications
+* 📊 Data-driven Systems
+* 🎮 Interactive Web Experiences
+* 🧩 Real-world Software Solutions
 
 ---
 
@@ -77,4 +94,8 @@ An AI-powered application designed to analyze resumes and provide useful insight
 
 ## 📊 GitHub
 
-Thanks for visiting my profile! Feel free to explore my repositories and projects.
+Thanks for visiting my profile! 🚀
+
+Feel free to explore my repositories and projects.
+
+> **"Learning, building, and turning ideas into real-world solutions."** 💻✨
