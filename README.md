@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Mobile+App+Developer;Building+Explainable+AI+Systems;Computer+Vision+Explorer;Turning+Ideas+Into+Reality+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=2600&pause=900&color=A970FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full-Stack+%26+Mobile+Developer;AI+%2F+Machine+Learning+Enthusiast;Building+Explainable+AI+Systems;Computer+Vision+Explorer;Turning+Ideas+Into+Real+Products+%E2%9C%A8" />
 
 <br/><br/>
 
@@ -20,6 +20,10 @@
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D16"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sahan202&style=flat-square&color=7B61FF&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
@@ -34,97 +38,156 @@
 
 <br/>
 
-I'm a **Software Engineering student and developer** passionate about building modern, practical, scalable, and intelligent software solutions.
+I'm a **Software Engineering student and developer** focused on building modern, practical, scalable and intelligent software solutions.
 
-My development experience spans **full-stack web development, mobile applications, backend APIs, machine learning, explainable AI, computer vision, databases, and cloud deployment**.
+My development experience spans **full-stack web applications, mobile development, backend APIs, databases, machine learning, explainable AI, computer vision and cloud deployment**.
 
-I enjoy transforming ideas into complete applications — from designing user interfaces and developing APIs to integrating databases, training machine-learning models, deploying applications, and improving real-world user experiences.
+I enjoy working across the complete development lifecycle — from **idea and UI design** to **backend architecture, database integration, AI/ML experimentation and deployment**.
 
 My current interests sit at the intersection of:
 
-**🌐 Full-Stack Development**
-**📱 Mobile Application Development**
-**🤖 Artificial Intelligence & Machine Learning**
-**🧠 Explainable AI**
-**👁️ Computer Vision**
-**📊 Data-Driven Intelligent Systems**
-**☁️ Cloud & Modern Software Architecture**
+<div align="center">
 
-I believe the best way to grow as a software engineer is by **building, experimenting, debugging, learning, and continuously improving**.
+`🌐 Full-Stack Development`   •  
+`📱 Mobile Development`   •  
+`🤖 AI / ML`
+
+`🧠 Explainable AI`   •  
+`👁️ Computer Vision`   •  
+`☁️ Cloud`
+
+`📊 Data-Driven Systems`   •  
+`🏗️ Software Architecture`
+
+</div>
+
+<br/>
+
+> **My goal is simple:** build software that combines strong engineering, useful data and intelligent technology to solve real-world problems.
 
 ---
 
 <div align="center">
 
-## ⚡ CURRENTLY BUILDING & EXPLORING
+## ⚡ CURRENTLY BUILDING
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=7B61FF&center=true&vCenter=true&width=850&lines=Explainable+AI+Systems+%F0%9F%A7%A0;Machine+Learning+Prediction+Platforms+%F0%9F%A4%96;Next.js+Full-Stack+Applications+%E2%9A%9B%EF%B8%8F;Flutter+%26+React+Native+Apps+%F0%9F%93%B1;FastAPI+Backend+Systems+%E2%9A%A1;Computer+Vision+Experiments+%F0%9F%91%81%EF%B8%8F;Cloud-Deployed+Applications+%E2%98%81%EF%B8%8F;Data-Driven+Intelligent+Systems+%F0%9F%93%8A"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2300&pause=700&color=7B61FF&center=true&vCenter=true&width=900&lines=Explainable+AI+Platforms+%F0%9F%A7%A0;Machine+Learning+Prediction+Systems+%F0%9F%A4%96;AI-Powered+Interview+Applications+%F0%9F%8E%A4;Next.js+Full-Stack+Applications+%E2%9A%9B%EF%B8%8F;Flutter+%26+React+Native+Apps+%F0%9F%93%B1;FastAPI+Backend+Systems+%E2%9A%A1;Computer+Vision+Experiments+%F0%9F%91%81%EF%B8%8F;Cloud-Deployed+Applications+%E2%98%81%EF%B8%8F"/>
 
 </div>
 
 ---
 
-## 🧩 TECHNOLOGIES I WORK WITH
-
 <div align="center">
+
+# 🧩 TECH STACK
+
+### Technologies I use to turn ideas into working products
+
+</div>
 
 ### 🌐 Frontend & Web
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark"/>
 
-<br/><br/>
+<br/>
+
+`React` • `Next.js` • `TypeScript` • `JavaScript` • `HTML` • `CSS` • `Tailwind CSS` • `Vite`
+
+</div>
+
+<br/>
 
 ### 📱 Mobile Development
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts&theme=dark"/>
 
-**Flutter • Dart • React Native • Expo**
+<br/>
 
-<br/><br/>
+`Flutter` • `Dart` • `React Native` • `Expo`
+
+</div>
+
+<br/>
 
 ### ⚙️ Backend & APIs
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark"/>
 
-**Node.js • Express.js • FastAPI • REST APIs**
+<br/>
 
-<br/><br/>
+`Node.js` • `Express.js` • `FastAPI` • `Python` • `Java` • `REST APIs`
+
+</div>
+
+<br/>
 
 ### 🗄️ Databases & Backend Services
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase&theme=dark"/>
 
-**MongoDB • MySQL • Supabase • Firebase • Cloud Firestore**
+<br/>
 
-<br/><br/>
+`MongoDB` • `MySQL` • `Supabase` • `Firebase` • `Cloud Firestore`
 
-### 🤖 AI • ML • Explainable AI
+</div>
+
+<br/>
+
+### 🤖 AI • Machine Learning • Explainable AI
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark"/>
 
-**Python • Pandas • Scikit-learn • XGBoost • SHAP • Joblib**
+<br/>
 
-<br/><br/>
+`Python` • `Pandas` • `Scikit-learn` • `XGBoost` • `SHAP` • `Joblib` • `AI/NLP`
+
+</div>
+
+<br/>
 
 ### 👁️ Computer Vision
 
-**Webcam Interaction • Hand Tracking • Real-Time Vision Experiments**
+<div align="center">
 
-<br/><br/>
+`Computer Vision` • `Webcam Interaction` • `Hand Tracking` • `Real-Time Vision`
+
+</div>
+
+<br/>
 
 ### ☁️ Cloud • Deployment • DevOps
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,git,github&theme=dark"/>
 
-**AWS • Docker • Vercel • Netlify • Git • GitHub**
+<br/>
 
-<br/><br/>
+`AWS` • `Docker` • `Vercel` • `Netlify` • `Git` • `GitHub`
 
-### 🛠️ Development Tools
+</div>
+
+<br/>
+
+### 🛠️ Development & Design Tools
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman&theme=dark"/>
 
-**VS Code • IntelliJ IDEA • Figma • Postman • draw.io**
+<br/>
+
+`VS Code` • `IntelliJ IDEA` • `Figma` • `Postman` • `draw.io`
 
 </div>
 
@@ -132,63 +195,273 @@ I believe the best way to grow as a software engineer is by **building, experime
 
 <div align="center">
 
-## 🚀 WHAT I BUILD
+# 🚀 FEATURED PROJECTS
+
+### `Research • Build • Test • Improve • Deploy`
+
+</div>
+
+---
+
+## 🎬 Analytica — Explainable Cinema Crowd Prediction Platform
+
+An **AI-powered cinema crowd prediction and decision-support platform** designed to predict occupancy at the **individual showtime level**.
+
+The system explores how historical cinema information can be combined with **movie metadata, temporal features, weather conditions, holidays and booking behaviour** to generate useful crowd predictions.
+
+Unlike traditional black-box prediction systems, Analytica incorporates **Explainable AI using SHAP** to help users understand which factors influenced a prediction.
+
+### ✨ Core Capabilities
+
+* 🎯 Showtime-level crowd prediction
+* 📊 Low / Medium / High occupancy classification
+* 🤖 XGBoost-based machine learning
+* 🧠 SHAP local & global explanations
+* 🌦️ Weather-aware prediction features
+* 📅 Holiday and temporal feature integration
+* 📈 Operational analytics
+* ⚡ FastAPI backend
+* 🌐 Next.js frontend
+* 🗄️ MongoDB data layer
+* 📊 Data-driven decision support
+
+**Tech Stack**
+
+`Python` • `XGBoost` • `SHAP` • `Scikit-learn` • `Pandas` • `FastAPI` • `Next.js` • `TypeScript` • `MongoDB` • `Joblib`
+
+---
+
+## 🎤 InterviewAI — AI-Powered Interview Simulator
+
+An intelligent interview preparation platform designed to provide users with a more personalized and interactive way to practice job interviews.
+
+InterviewAI combines **AI-generated questions, resume context, voice interaction and intelligent feedback** to simulate a modern interview preparation experience.
+
+### ✨ Core Capabilities
+
+* 🤖 Personalized AI-generated interview questions
+* 📄 Resume-aware interview preparation
+* 🎙️ Voice-enabled interaction
+* 🧠 AI-powered answer feedback
+* 📊 Interview performance insights
+* 💡 Personalized improvement recommendations
+* 📥 Downloadable interview reports
+* 🌐 Responsive web interface
+
+**Tech Stack**
+
+`React` • `TypeScript` • `AI` • `Gemini` • `Resume Analysis` • `Voice Input`
+
+---
+
+## 🌴 Lucky Travel — AI-Powered Sri Lankan Travel Platform
+
+An intelligent travel platform designed to create **personalized Sri Lankan travel experiences**.
+
+Users can generate travel plans based on their dates, budget, number of travelers, interests and preferred destinations.
+
+### ✨ Core Capabilities
+
+* 🤖 AI-generated travel itineraries
+* 📍 Destination discovery
+* 🗺️ Interactive maps
+* 💰 Budget-aware planning
+* 📅 Date-based itinerary generation
+* 📦 Travel packages
+* 📝 Booking requests
+* 💬 Multilingual chatbot support
+* ☁️ Cloud-based media management
+* ✨ Interactive animations
+
+**Tech Stack**
+
+`React` • `TypeScript` • `Node.js` • `AI` • `OpenStreetMap` • `Leaflet` • `Cloudinary` • `GSAP`
+
+---
+
+## 🤖 AI Resume Analyzer
+
+A full-stack AI application designed to analyze resumes against job descriptions and provide useful feedback to job seekers.
+
+The system combines resume processing with AI/NLP techniques to identify relevant skills and provide actionable recommendations.
+
+### ✨ Core Capabilities
+
+* 📄 PDF / DOCX resume processing
+* 🎯 Job-description matching
+* 📊 Resume match scoring
+* 🧩 Skill identification
+* 🔍 Missing skill analysis
+* 💡 AI-powered recommendations
+* 🗄️ Cloud-backed data handling
+
+**Tech Stack**
+
+`React` • `TypeScript` • `Node.js` • `Supabase` • `AI/NLP` • `PDF/DOCX Processing`
+
+---
+
+## 👁️ Bird Smash — Computer Vision Game
+
+An interactive browser game that explores **human-computer interaction through webcam hand tracking**.
+
+Players interact with game objects using real-world hand movements instead of traditional keyboard or mouse controls.
+
+### ✨ Core Capabilities
+
+* 👋 Hand tracking
+* 📷 Webcam-based interaction
+* 👁️ Real-time computer vision
+* 🎮 Gesture-driven gameplay
+* ⚡ Real-time browser interaction
+
+**Tech Stack**
+
+`React` • `TypeScript` • `Vite` • `Computer Vision` • `Webcam Hand Tracking`
+
+---
+
+## 📱 CampusMate — Smart Student Management App
+
+A student-focused mobile application designed around **academic management, productivity and student experience**.
+
+### ✨ Core Capabilities
+
+* 📚 Academic management
+* 🔐 Secure authentication
+* 🔔 Notifications
+* 🧠 AI-powered study planning
+* ☁️ Cloud-based data synchronization
+* 📱 Cross-platform mobile experience
+
+**Tech Stack**
+
+`Flutter` • `Dart` • `Firebase` • `Cloud Firestore` • `Firebase Authentication` • `AI Study Planner`
+
+---
+
+## 🎓 Learning Management System — Web & Mobile
+
+A modern LMS ecosystem focused on delivering course content and student services through web and mobile experiences.
+
+### ✨ Core Capabilities
+
+* 🏠 Student dashboard
+* 📚 Course management
+* 🎥 Video lessons
+* 🔴 Live classes
+* 👤 Student profiles
+* 🔑 Password management
+* 🔐 Authentication
+* 📱 Mobile-first learning experience
+* 🛡️ Device-access security exploration
+
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `React Native` • `Expo` • `Node.js` • `MongoDB`
+
+---
+
+## 💰 WattDeal — Retail & Wholesale Bidding Platform
+
+A digital marketplace designed to connect buyers and sellers through a flexible product bidding system.
+
+### ✨ Core Capabilities
+
+* 🛍️ Product marketplace
+* 💰 Bidding workflows
+* 👥 Buyer & seller interactions
+* 🗄️ Database-backed product management
+* 🌐 Responsive web interface
+
+**Tech Stack**
+
+`React` • `JavaScript` • `CSS` • `Node.js` • `MongoDB`
+
+---
+
+## 🌐 Landing Page & LMS Integration Architecture
+
+A modern public-facing landing experience designed to integrate with an existing LMS ecosystem.
+
+The architecture explores separation between the **public platform, authentication system, payments and learning environment**.
+
+### Areas Explored
+
+* 🌐 Next.js frontend architecture
+* 🔐 LMS authentication integration
+* 💳 Student payment workflow design
+* 🔗 Cross-application navigation
+* ☁️ Netlify & Vercel deployment
+* 🌍 Custom domain / subdomain architecture
+
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `Node.js` • `Netlify` • `Vercel`
+
+---
+
+<div align="center">
+
+# 💡 WHAT I ENJOY BUILDING
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🌐 Full-Stack Applications
+<td width="33%" align="center">
 
-Building complete web applications using modern frontend frameworks, REST APIs, authentication systems, databases and cloud services.
+### 🌐 Full-Stack
+
+Modern interfaces connected to APIs, authentication, databases and cloud infrastructure.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 Intelligent Systems
+
+Machine learning and AI applications that transform data into useful predictions and insights.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 📱 Mobile Applications
+### 📱 Mobile
 
-Developing cross-platform mobile experiences using **Flutter/Dart** and **React Native/Expo**, including LMS and student-focused applications.
+Cross-platform mobile applications designed around practical user experiences.
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning
-
-Building and experimenting with prediction systems, machine-learning pipelines, intelligent applications and data-driven solutions.
-
-</td>
-
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
 ### 🧠 Explainable AI
 
-Exploring explainable machine-learning systems using technologies such as **XGBoost and SHAP** to make predictions more understandable and useful.
+Machine-learning systems where users can understand the reasoning behind model predictions.
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
 ### 👁️ Computer Vision
 
-Experimenting with webcam interaction, hand tracking and real-time computer vision applications.
+Interactive applications using cameras, hand tracking and real-time visual processing.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### ☁️ Cloud-Deployed Systems
+### ☁️ Cloud Systems
 
-Deploying and connecting applications using platforms including **Vercel, Netlify, Supabase, Firebase and AWS**.
+Deploying and connecting applications across modern cloud and hosting platforms.
 
 </td>
+
 </tr>
 </table>
 
@@ -196,183 +469,39 @@ Deploying and connecting applications using platforms including **Vercel, Netlif
 
 <div align="center">
 
-# 🛠️ FEATURED PROJECTS
+# 🧠 DEVELOPMENT MINDSET
 
-### `FROM IDEAS → TO WORKING PRODUCTS`
-
-</div>
-
----
-
-### 🎬 Analytica — Explainable Cinema Crowd Prediction Platform
-
-An **AI-powered cinema decision-support platform** designed to predict crowd levels and occupancy for individual movie showtimes.
-
-The system combines cinema records with movie metadata, temporal information, weather conditions, holidays and booking-related features to support more informed cinema operations.
-
-Rather than only generating predictions, the platform explores **Explainable AI** to help users understand the factors influencing each prediction.
-
-**Core Features**
-
-* 🎯 Showtime-level crowd prediction
-* 📊 Low / Medium / High occupancy classification
-* 🤖 Machine-learning prediction pipeline
-* 🧠 SHAP-based prediction explanations
-* 🌦️ Weather-aware features
-* 📅 Holiday & temporal features
-* 📈 Analytics and operational insights
-* ⚡ FastAPI-powered backend
-* 🌐 Modern Next.js frontend
-* 🗄️ MongoDB data layer
-
-**Tech:** Python • XGBoost • SHAP • Scikit-learn • Pandas • FastAPI • Next.js • TypeScript • MongoDB • Joblib
-
----
-
-### 📱 CampusMate — Smart Student Management App
-
-A modern student-focused mobile application designed around **academic management, productivity and student experience**.
-
-The application brings important student activities into a single mobile environment.
-
-**Features include:**
-
-* 📚 Academic management
-* 🔐 Secure authentication
-* 🔔 Notifications
-* 🧠 AI-powered study planning
-* ☁️ Cloud-based data synchronization
-
-**Tech:** Flutter • Dart • Firebase • Cloud Firestore • Firebase Authentication • Notifications • AI Study Planner
-
----
-
-### 🎓 Learning Management System — Web & Mobile Experience
-
-A modern LMS ecosystem focused on delivering course content and student services across web and mobile platforms.
-
-The mobile experience is designed around simple access to learning resources and account management.
-
-**Core Areas**
-
-* 🏠 Student dashboard
-* 📚 Course management
-* 🎥 Course video lessons
-* 🔴 Live classes
-* 👤 Student profiles
-* 🔑 Password management
-* 🔐 Authentication & device-access security
-* 📱 Mobile-first user experience
-
-**Tech:** Next.js • React • TypeScript • React Native • Expo • Node.js • MongoDB
-
----
-
-### 🤖 AI Resume Analyzer
-
-A full-stack AI-powered application that analyzes resumes against job descriptions and provides useful insights for candidates.
-
-**Features**
-
-* 📄 Resume processing
-* 🎯 Job-description matching
-* 📊 Match scoring
-* 🧩 Skill analysis
-* 💡 AI-powered recommendations
-
-**Tech:** React • TypeScript • Node.js • PDF/DOCX Processing • Supabase • AI/NLP
-
----
-
-### 👁️ Bird Smash Game
-
-An interactive browser-based game that uses **webcam hand tracking** to allow players to interact with game objects using real-world hand movements.
-
-The project explores the combination of web technologies and computer vision for interactive experiences.
-
-**Tech:** React • TypeScript • Vite • Computer Vision • Webcam Hand Tracking
-
----
-
-### 🌴 Lucky Travel — AI-Powered Sri Lankan Travel Platform
-
-An intelligent travel platform designed to generate personalized Sri Lankan travel experiences based on user preferences.
-
-Users can generate travel plans using factors such as:
-
-* 📅 Travel dates
-* 💰 Budget
-* 👥 Number of travelers
-* ❤️ Interests
-* 📍 Destinations
-
-The platform also includes itinerary generation, maps, travel packages, booking requests, multilingual chatbot support and travel content.
-
-**Tech:** React • TypeScript • Node.js • AI • OpenStreetMap • Leaflet • Cloudinary • GSAP
-
----
-
-### 💰 WattDeal — Retail & Wholesale Bidding Platform
-
-A web-based marketplace designed to connect buyers and sellers through a product bidding system.
-
-The platform explores digital commerce through flexible retail and wholesale bidding workflows.
-
-**Tech:** React • JavaScript • CSS • Node.js • MongoDB
-
----
-
-### 🌐 Modern Landing Page & LMS Integration
-
-A modern web landing experience designed to connect users with an existing LMS ecosystem.
-
-The architecture explores separation between the public-facing platform and authenticated learning services.
-
-**Areas explored:**
-
-* 🌐 Next.js frontend development
-* 🔐 LMS authentication integration
-* 💳 Student payment workflow planning
-* 🔗 Cross-application navigation
-* ☁️ Netlify & Vercel deployment
-* 🌍 Custom domain & subdomain architecture
-
-**Tech:** Next.js • React • TypeScript • Netlify • Vercel • Node.js
-
----
-
-<div align="center">
-
-## 🧠 MY DEVELOPMENT PHILOSOPHY
-
-### `IDEA → RESEARCH → DESIGN → CODE → BREAK → DEBUG → LEARN → IMPROVE → DEPLOY 🚀`
+### `IDEA → RESEARCH → DESIGN → BUILD → TEST → DEBUG → IMPROVE → DEPLOY 🚀`
 
 </div>
 
-I believe the best way to learn software engineering is to **build real things and solve real problems**.
+<br/>
 
-Every project is an opportunity to:
+I believe software engineering is learned most effectively by **building real products and solving real problems**.
 
-* 🧠 Learn a new technology
-* 💡 Solve a meaningful problem
-* 🧪 Experiment with new ideas
-* 🧹 Improve code quality
-* 🏗️ Understand software architecture
+Every project gives me an opportunity to improve how I:
+
+* 💡 Transform ideas into technical solutions
+* 🎨 Design better user experiences
+* 🧩 Structure frontend applications
+* ⚙️ Build scalable backend services
+* 🗄️ Design and integrate databases
+* 🤖 Experiment with AI and machine learning
+* 🧠 Make intelligent systems more explainable
 * 🔐 Think about application security
-* ☁️ Learn deployment and infrastructure
-* 📊 Work with real data
-* 🤖 Explore intelligent systems
-* 🚀 Turn concepts into working products
+* 🏗️ Understand software architecture
+* ☁️ Deploy applications to production
+* 🧪 Debug and improve real systems
 
 ---
 
 <div align="center">
 
-## 📊 GITHUB ACTIVITY
+# 📊 GITHUB ANALYTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sahan202&show_icons=true&hide_border=true&theme=transparent&title_color=A970FF&icon_color=A970FF&text_color=FFFFFF&bg_color=00000000&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahan202&show_icons=true&hide_border=true&theme=transparent&title_color=A970FF&icon_color=A970FF&text_color=FFFFFF&bg_color=00000000&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan202&layout=compact&hide_border=true&theme=transparent&title_color=A970FF&text_color=FFFFFF&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan202&layout=compact&hide_border=true&theme=transparent&title_color=A970FF&text_color=FFFFFF&bg_color=00000000&langs_count=8"/>
 
 <br/><br/>
 
@@ -384,7 +513,7 @@ Every project is an opportunity to:
 
 <div align="center">
 
-## 🌌 CONTRIBUTION JOURNEY
+# 🌌 CONTRIBUTION JOURNEY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahan202&bg_color=00000000&color=A970FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true"/>
 
@@ -394,67 +523,99 @@ Every project is an opportunity to:
 
 <div align="center">
 
-## 🎯 CURRENT LEARNING PATH
+# 🐍 CONTRIBUTION ACTIVITY
+
+<img src="https://raw.githubusercontent.com/Sahan202/Sahan202/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> **Note:** The contribution snake requires a GitHub Actions workflow to generate the SVG. If the workflow has not been added yet, this section will remain blank.
+
+---
+
+<div align="center">
+
+# 🎯 ENGINEERING JOURNEY
 
 </div>
 
 ```text
                               SOFTWARE ENGINEER
-                                     │
-                ┌────────────────────┼────────────────────┐
-                │                    │                    │
-                ▼                    ▼                    ▼
-           FULL-STACK              MOBILE               AI / ML
-                │                    │                    │
-                │                    │                    ▼
-                │                    │              EXPLAINABLE AI
-                │                    │                    │
-                └────────────────────┼────────────────────┘
-                                     │
-                                     ▼
-                              CLOUD & BACKEND
-                                     │
-                                     ▼
-                              DATA & SYSTEMS
-                                     │
-                                     ▼
-                         INTELLIGENT SOFTWARE
-                                     │
-                                     ▼
+                                      │
+                ┌─────────────────────┼─────────────────────┐
+                │                     │                     │
+                ▼                     ▼                     ▼
+           FULL-STACK               MOBILE                AI / ML
+                │                     │                     │
+                │                     │                     ▼
+                │                     │              EXPLAINABLE AI
+                │                     │                     │
+                └─────────────────────┼─────────────────────┘
+                                      │
+                                      ▼
+                              BACKEND & CLOUD
+                                      │
+                                      ▼
+                               DATA & SYSTEMS
+                                      │
+                                      ▼
+                          INTELLIGENT SOFTWARE
+                                      │
+                                      ▼
                             REAL-WORLD IMPACT
 ```
-
-### 🌱 Currently Improving
-
-* ⚛️ Advanced React & TypeScript
-* ▲ Next.js & Modern Web Architecture
-* 🟢 Node.js & Backend Development
-* ⚡ FastAPI & Python Backend Development
-* 📱 Flutter & Dart
-* 📱 React Native & Expo
-* 🤖 Machine Learning
-* 📈 XGBoost & Predictive Modelling
-* 🧠 Explainable AI & SHAP
-* 👁️ Computer Vision
-* 🔐 Application Security
-* ☁️ Cloud Technologies
-* 🐳 Docker & Deployment
-* 🏗️ Software Architecture
-* 📊 Data-Driven Applications
 
 ---
 
 <div align="center">
 
-## 💻 ENGINEERING INTERESTS
+# 🌱 CURRENTLY IMPROVING
 
-`Full-Stack` • `Mobile` • `AI/ML` • `Explainable AI` • `Computer Vision` • `Backend Engineering` • `Cloud` • `Data` • `Software Architecture`
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+⚛️ Advanced React & TypeScript
+▲ Next.js Architecture
+🟢 Node.js Backend Development
+⚡ FastAPI & Python APIs
+📱 Flutter & Dart
+📱 React Native & Expo
+
+</td>
+
+<td>
+
+🤖 Machine Learning
+📈 XGBoost & Predictive Modelling
+🧠 Explainable AI & SHAP
+👁️ Computer Vision
+☁️ Cloud Technologies
+🐳 Docker & Deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🔭 WHERE I'M HEADING
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=19&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=850&lines=Building+better+full-stack+systems.;Exploring+AI+that+solves+real+problems.;Creating+better+mobile+experiences.;Learning+how+intelligent+systems+work.;Turning+engineering+knowledge+into+impact." />
 
 <br/><br/>
 
-### 💡 I enjoy building software where
+### `FULL-STACK × MOBILE × AI/ML × CLOUD`
 
-**Good UI meets strong engineering, useful data, and intelligent systems.**
+<br/>
+
+**Building software where good design meets strong engineering and intelligent systems.**
 
 </div>
 
@@ -462,7 +623,7 @@ Every project is an opportunity to:
 
 <div align="center">
 
-## 🤝 LET'S CONNECT
+# 🤝 LET'S CONNECT
 
 <br/>
 
@@ -476,13 +637,17 @@ Every project is an opportunity to:
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sahan202&style=flat-square&color=7B61FF&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=Sahan202&style=for-the-badge&color=7B61FF&label=PROFILE+VISITORS"/>
 
 <br/><br/>
 
-### ✨ `Build something. Learn something. Improve something. Repeat.`
+### ✨ `Build. Learn. Improve. Repeat.`
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1200&color=A970FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub+profile+%F0%9F%91%8B;Feel+free+to+explore+my+projects+%F0%9F%9A%80"/>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:25005C,50:12002B,100:050014"/>
 
