@@ -203,6 +203,30 @@ My current interests sit at the intersection of:
 
 ---
 
+## 🌐 Sahan Sudeepa Portfolio — Interactive Personal Showcase
+
+[![Live Portfolio](https://img.shields.io/badge/LIVE%20PORTFOLIO-VISIT-40A9FF?style=for-the-badge&logo=cloudflareworkers&logoColor=white&labelColor=071226)](https://portfolio-next.sahansudeepa-portfolio.workers.dev)
+
+A responsive, motion-led personal portfolio that presents selected full-stack, mobile, AI/ML and interactive projects through an accessible visual experience.
+
+### ✨ Core Capabilities
+
+- 🪟 Navy-blue layered glass UI with translucent navigation and depth-aware panels
+- 🎞️ Scroll-driven hero stages, chapter reveals and route transitions using Framer Motion
+- 🧬 Canvas-rendered wireframe figures, ambient particles and scroll-reactive visual scenes
+- 📱 Responsive layouts, project filters, mobile navigation and keyboard-accessible skill tabs
+- 🎬 Project walkthrough videos that pause and resume as they enter or leave view
+- ♿ Reduced-motion mode, focus states and semantic contact-form feedback
+- ☁️ Cloudflare Workers deployment through Vinext
+
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `Framer Motion` • `Tailwind CSS` • `Canvas` • `Vinext` • `Cloudflare Workers`
+
+**Live Deployment**
+
+[portfolio-next.sahansudeepa-portfolio.workers.dev](https://portfolio-next.sahansudeepa-portfolio.workers.dev)
+
 ## 🎬 Analytica — Explainable Cinema Crowd Prediction Platform
 
 An **AI-powered cinema crowd prediction and decision-support platform** designed to predict occupancy at the **individual showtime level**.
@@ -213,17 +237,17 @@ Unlike traditional black-box prediction systems, Analytica incorporates **Explai
 
 ### ✨ Core Capabilities
 
-* 🎯 Showtime-level crowd prediction
-* 📊 Low / Medium / High occupancy classification
-* 🤖 XGBoost-based machine learning
-* 🧠 SHAP local & global explanations
-* 🌦️ Weather-aware prediction features
-* 📅 Holiday and temporal feature integration
-* 📈 Operational analytics
-* ⚡ FastAPI backend
-* 🌐 Next.js frontend
-* 🗄️ MongoDB data layer
-* 📊 Data-driven decision support
+- 🎯 Showtime-level crowd prediction
+- 📊 Low / Medium / High occupancy classification
+- 🤖 XGBoost-based machine learning
+- 🧠 SHAP local & global explanations
+- 🌦️ Weather-aware prediction features
+- 📅 Holiday and temporal feature integration
+- 📈 Operational analytics
+- ⚡ FastAPI backend
+- 🌐 Next.js frontend
+- 🗄️ MongoDB data layer
+- 📊 Data-driven decision support
 
 **Tech Stack**
 
@@ -239,14 +263,14 @@ InterviewAI combines **AI-generated questions, resume context, voice interaction
 
 ### ✨ Core Capabilities
 
-* 🤖 Personalized AI-generated interview questions
-* 📄 Resume-aware interview preparation
-* 🎙️ Voice-enabled interaction
-* 🧠 AI-powered answer feedback
-* 📊 Interview performance insights
-* 💡 Personalized improvement recommendations
-* 📥 Downloadable interview reports
-* 🌐 Responsive web interface
+- 🤖 Personalized AI-generated interview questions
+- 📄 Resume-aware interview preparation
+- 🎙️ Voice-enabled interaction
+- 🧠 AI-powered answer feedback
+- 📊 Interview performance insights
+- 💡 Personalized improvement recommendations
+- 📥 Downloadable interview reports
+- 🌐 Responsive web interface
 
 **Tech Stack**
 
@@ -262,16 +286,16 @@ Users can generate travel plans based on their dates, budget, number of traveler
 
 ### ✨ Core Capabilities
 
-* 🤖 AI-generated travel itineraries
-* 📍 Destination discovery
-* 🗺️ Interactive maps
-* 💰 Budget-aware planning
-* 📅 Date-based itinerary generation
-* 📦 Travel packages
-* 📝 Booking requests
-* 💬 Multilingual chatbot support
-* ☁️ Cloud-based media management
-* ✨ Interactive animations
+- 🤖 AI-generated travel itineraries
+- 📍 Destination discovery
+- 🗺️ Interactive maps
+- 💰 Budget-aware planning
+- 📅 Date-based itinerary generation
+- 📦 Travel packages
+- 📝 Booking requests
+- 💬 Multilingual chatbot support
+- ☁️ Cloud-based media management
+- ✨ Interactive animations
 
 **Tech Stack**
 
@@ -287,13 +311,13 @@ The system combines resume processing with AI/NLP techniques to identify relevan
 
 ### ✨ Core Capabilities
 
-* 📄 PDF / DOCX resume processing
-* 🎯 Job-description matching
-* 📊 Resume match scoring
-* 🧩 Skill identification
-* 🔍 Missing skill analysis
-* 💡 AI-powered recommendations
-* 🗄️ Cloud-backed data handling
+- 📄 PDF / DOCX resume processing
+- 🎯 Job-description matching
+- 📊 Resume match scoring
+- 🧩 Skill identification
+- 🔍 Missing skill analysis
+- 💡 AI-powered recommendations
+- 🗄️ Cloud-backed data handling
 
 **Tech Stack**
 
@@ -309,11 +333,11 @@ Players interact with game objects using real-world hand movements instead of tr
 
 ### ✨ Core Capabilities
 
-* 👋 Hand tracking
-* 📷 Webcam-based interaction
-* 👁️ Real-time computer vision
-* 🎮 Gesture-driven gameplay
-* ⚡ Real-time browser interaction
+- 👋 Hand tracking
+- 📷 Webcam-based interaction
+- 👁️ Real-time computer vision
+- 🎮 Gesture-driven gameplay
+- ⚡ Real-time browser interaction
 
 **Tech Stack**
 
@@ -327,12 +351,12 @@ A student-focused mobile application designed around **academic management, prod
 
 ### ✨ Core Capabilities
 
-* 📚 Academic management
-* 🔐 Secure authentication
-* 🔔 Notifications
-* 🧠 AI-powered study planning
-* ☁️ Cloud-based data synchronization
-* 📱 Cross-platform mobile experience
+- 📚 Academic management
+- 🔐 Secure authentication
+- 🔔 Notifications
+- 🧠 AI-powered study planning
+- ☁️ Cloud-based data synchronization
+- 📱 Cross-platform mobile experience
 
 **Tech Stack**
 
@@ -346,15 +370,15 @@ A modern LMS ecosystem focused on delivering course content and student services
 
 ### ✨ Core Capabilities
 
-* 🏠 Student dashboard
-* 📚 Course management
-* 🎥 Video lessons
-* 🔴 Live classes
-* 👤 Student profiles
-* 🔑 Password management
-* 🔐 Authentication
-* 📱 Mobile-first learning experience
-* 🛡️ Device-access security exploration
+- 🏠 Student dashboard
+- 📚 Course management
+- 🎥 Video lessons
+- 🔴 Live classes
+- 👤 Student profiles
+- 🔑 Password management
+- 🔐 Authentication
+- 📱 Mobile-first learning experience
+- 🛡️ Device-access security exploration
 
 **Tech Stack**
 
@@ -368,11 +392,11 @@ A digital marketplace designed to connect buyers and sellers through a flexible 
 
 ### ✨ Core Capabilities
 
-* 🛍️ Product marketplace
-* 💰 Bidding workflows
-* 👥 Buyer & seller interactions
-* 🗄️ Database-backed product management
-* 🌐 Responsive web interface
+- 🛍️ Product marketplace
+- 💰 Bidding workflows
+- 👥 Buyer & seller interactions
+- 🗄️ Database-backed product management
+- 🌐 Responsive web interface
 
 **Tech Stack**
 
@@ -388,12 +412,12 @@ The architecture explores separation between the **public platform, authenticati
 
 ### Areas Explored
 
-* 🌐 Next.js frontend architecture
-* 🔐 LMS authentication integration
-* 💳 Student payment workflow design
-* 🔗 Cross-application navigation
-* ☁️ Netlify & Vercel deployment
-* 🌍 Custom domain / subdomain architecture
+- 🌐 Next.js frontend architecture
+- 🔐 LMS authentication integration
+- 💳 Student payment workflow design
+- 🔗 Cross-application navigation
+- ☁️ Netlify & Vercel deployment
+- 🌍 Custom domain / subdomain architecture
 
 **Tech Stack**
 
@@ -481,17 +505,17 @@ I believe software engineering is learned most effectively by **building real pr
 
 Every project gives me an opportunity to improve how I:
 
-* 💡 Transform ideas into technical solutions
-* 🎨 Design better user experiences
-* 🧩 Structure frontend applications
-* ⚙️ Build scalable backend services
-* 🗄️ Design and integrate databases
-* 🤖 Experiment with AI and machine learning
-* 🧠 Make intelligent systems more explainable
-* 🔐 Think about application security
-* 🏗️ Understand software architecture
-* ☁️ Deploy applications to production
-* 🧪 Debug and improve real systems
+- 💡 Transform ideas into technical solutions
+- 🎨 Design better user experiences
+- 🧩 Structure frontend applications
+- ⚙️ Build scalable backend services
+- 🗄️ Design and integrate databases
+- 🤖 Experiment with AI and machine learning
+- 🧠 Make intelligent systems more explainable
+- 🔐 Think about application security
+- 🏗️ Understand software architecture
+- ☁️ Deploy applications to production
+- 🧪 Debug and improve real systems
 
 ---
 
